@@ -11,7 +11,6 @@
 - 👧 Pronounce: She/her
 - ⚡️ Fun fact: My favourite part about coding is debug
 
-<br/>
 
 ### Talk with me
 
